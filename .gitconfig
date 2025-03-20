@@ -1,0 +1,13 @@
+[credential]
+    helper = osxkeyhain
+[user]
+    name = Rodolfo Rodrigues
+    email = dev_rodts@outlook.com
+[push]
+    followTags = true
+[core]
+    editor = cursor --wait
+[alias]
+    s = !git status
+    c = !git commit -m
+    l = !git log --pretty=format:'%C(blue)%h%C(red)%d %C(white)%s - %C(cyan)%cn, %C(green)%cr'
