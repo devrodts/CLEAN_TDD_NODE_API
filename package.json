@@ -1,0 +1,8 @@
+{
+  "name": "clean_tdd_node",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/devrodts/CLEAN_TDD_NODE_API.git",
+  "author": "Rodolfo",
+  "license": "MIT"
+}
